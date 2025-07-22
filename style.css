@@ -317,7 +317,7 @@ header {
 }
 @font-face {
   font-family: 'Quantum';
-  src: url('./fonts/Quantum.otf') format('opentype');
+  src: url('Quantum.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
